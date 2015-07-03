@@ -1,9 +1,12 @@
 # MyPortfolio
 ## Platform to create your own portfolio.
-
-Using AngularJS, NodeJS and MongoDB
-
-For the Client side it will be used AngularJS, creating a single page application. The idea for the front-end look and feel is with the material design.
-
-For the Server side will be used NodeJS/ExpressJS.
-The data will be stored in an MongoDB instance.
+### Project Description
+This application will be for all who want to publish their own portfolio, in the most various areas without any knowledge of any programming language. You will be able to create a portfolio, with a template, where you can submit everything you want. 
+### Project Stack and Technologies
+#### Stack
+For the Client side it will be created a single page application. The look and feel is intended to do respecting the material design directives. Afterwards we can have an Mobile Client.
+In the Server side we will have a API that will manage all the portfolios. Implementing logic and crud functionalities. As on a database, it is a document based database.
+#### Technologies
+* AngularJS (Client-Side)
+* NodeJS/ExpressJS (Server-Side)
+* MongoDB (Server-Side)
